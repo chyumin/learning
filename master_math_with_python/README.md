@@ -1,3 +1,4 @@
-##  Master Math by Coding in Python by Mike X Cohen
+## Udemy Course: Master Math by Coding in Python
+### by Mike X Cohen
 
-https://www.udemy.com/course/math-with-python/
+Link: https://www.udemy.com/course/math-with-python/

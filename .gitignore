@@ -223,3 +223,4 @@ Thumbs.db
 
 
 *workspace.code-workspace
+*.serverless

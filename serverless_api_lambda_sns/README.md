@@ -1,6 +1,4 @@
-## Serverless 
-
-Serverless: AWS API Gateway with integration to a lambda function
+## Serverless: AWS API Gateway with integration to a lambda function
 
 The lambda function handles SNS fanout to https endpoint subscription and message.
 

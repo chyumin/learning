@@ -1,0 +1,22 @@
+service: sns-api-lambda
+
+provider:
+  name: aws
+  runtime: python3.7
+
+custom:
+  pythonRequirements:
+    dockerizePip: true
+
+functions:
+  handle_sns:
+    handler: lambda_handler.handle_sns
+    events:
+      - http:
+          method: any
+          path: /
+          cors: true
+
+
+plugins:
+  - serverless-python-requirements

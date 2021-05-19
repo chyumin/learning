@@ -1,0 +1,9 @@
+{
+  "name": "sns_api_lambda",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.1"
+  }
+}
